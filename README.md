@@ -22,6 +22,8 @@
 
 ### Button
 
+[Link To Buttons](components/Button/)
+
 ### Icon
 
 ### Typography
@@ -115,6 +117,8 @@ On/Off Toggler
 ### Message
 
 ### Modal
+
+[Link To Modals](components/Modal/)
 
 ### Notification
 
